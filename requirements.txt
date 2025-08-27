@@ -3,3 +3,4 @@ streamlit
 streamlit-drawable-canvas
 pandas
 plotly
+streamlit-component-template
