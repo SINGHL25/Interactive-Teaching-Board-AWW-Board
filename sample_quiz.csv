@@ -1,1 +1,5 @@
 
+Question,Option1,Option2,Option3,Option4,Answer
+What is Python?,A snake,A programming language,A movie,A car,B
+Which library is for data manipulation?,NumPy,Pandas,Matplotlib,Seaborn,B
+Streamlit is used for?,Web apps,Mobile apps,Games,Database,A
