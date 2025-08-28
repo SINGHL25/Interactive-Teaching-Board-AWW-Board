@@ -3,6 +3,7 @@ an interactive, classroom-style audience engagement tool (like an “AWW board�
 # Remote Teaching Board (Streamlit)
 
 🎨 An interactive web board for remote teaching with live quizzes.
+<img width="693" height="637" alt="image" src="https://github.com/user-attachments/assets/6103e2c7-efb8-4c4f-93b0-89e9fc59039a" />
 
 ## Features
 - Drawable canvas with multiple modes (free, line, rect, circle)
